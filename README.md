@@ -47,10 +47,10 @@ File ekspor database disertakan di folder `database` untuk memudahkan proses ins
 
 ## Identitas Pengembang
 
-**Nama:** Inka Audya Miranti  
+**Nama:** Inka Audya Miranti
 **NIM:** 3202416005
-**Program Studi:** D3 Teknik Informatika  
-**Jurusan:** Teknik Elektro  
+**Program Studi:** D3 Teknik Informatika
+**Jurusan:** Teknik Elektro
 **Institusi:** Politeknik Negeri Pontianak
 
 ## Keterangan
