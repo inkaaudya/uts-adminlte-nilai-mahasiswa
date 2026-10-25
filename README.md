@@ -1,4 +1,5 @@
 # Sistem Informasi Nilai Mahasiswa — AdminLTE 4
+# UTS Praktikum Pemrograman Web
 
 ## Deskripsi Proyek
 
@@ -47,6 +48,7 @@ File ekspor database disertakan di folder `database` untuk memudahkan proses ins
 ## Identitas Pengembang
 
 **Nama:** Inka Audya Miranti  
+**NIM:** 3202416005
 **Program Studi:** D3 Teknik Informatika  
 **Jurusan:** Teknik Elektro  
 **Institusi:** Politeknik Negeri Pontianak
