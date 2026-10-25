@@ -45,13 +45,15 @@ Database yang digunakan adalah `db_nilai5a`, dengan tabel utama `nilaimhsw`.
 
 File ekspor database disertakan di folder `database` untuk memudahkan proses instalasi dan pengujian aplikasi.
 
+
 ## Identitas Pengembang
 
-**Nama:** Inka Audya Miranti
-**NIM:** 3202416005
-**Program Studi:** D3 Teknik Informatika
-**Jurusan:** Teknik Elektro
+**Nama:** Inka Audya Miranti  
+**NIM:** 3202416005  
+**Program Studi:** D3 Teknik Informatika  
+**Jurusan:** Teknik Elektro  
 **Institusi:** Politeknik Negeri Pontianak
+  
 
 ## Keterangan
 
