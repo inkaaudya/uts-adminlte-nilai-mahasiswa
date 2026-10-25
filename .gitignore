@@ -1,0 +1,24 @@
+# Konfigurasi rahasia
+.env
+.env.*
+!.env.example
+
+# Pengaturan editor
+.vscode/
+.idea/
+
+# File sementara Windows
+Thumbs.db
+Desktop.ini
+
+# File sementara sistem
+.DS_Store
+*.log
+
+# File cadangan
+*.bak
+*.tmp
+
+# Dependency jika digunakan
+node_modules/
+vendor/
